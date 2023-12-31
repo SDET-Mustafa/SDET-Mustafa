@@ -1,7 +1,7 @@
 <!-- <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23000000&title_bg=%23000000&icon=hugo.svg&icon_color=%23FFFFFF&title=Profile+Views+Hanzelkaaragac&edge_flat=false" align="right"/></a> -->
 <br>
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/>
-<img src="https://komarev.com/ghpvc/?username=hanzelkaraagac&&style=plastics&&color=yellow" align="right"/> </p>
+<img src="https://komarev.com/ghpvc/?username=Sdet-Mustafa&&style=plastics&&color=yellow" align="right"/> </p>
 
 
 
@@ -26,9 +26,9 @@
 <strong> Click here to join our Discord server ⬅️ </a>
 
 <!-- %7C -> alttaki yaziya | eklememize yariyor -->
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%CC00FF&lines=Welcome+SDET+Mustafa+Channel;+Click+image+to+join+our+server)
+<![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%CC00FF&lines=Welcome+SDET+Mustafa+Channel;+Click+image+to+join+our+server)
   
-<h3 align="left">Skills: Java | Selenium | JUnit | TestNG | Cucumber | Git - GitHub | Html - Css | JIRA | PostgreSQL | LAMBDA | JDBC | API | </h3>
+<h3 align="left">Skills: Java | Selenium | JUnit | TestNG | Cucumber | Git - GitHub | Html | Jira | PostgreSQL | LAMBDA | JMeter | JDBC | Sql Developer | Jenkins |  API | Postman | </h3>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /> 
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Languages and Tools:</b>
@@ -102,11 +102,7 @@ jobs:
  
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>My Stats</b>
 
-<p align="center">
-  <img height="150" width="150" src="WEBP/left.webp">
-  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=hanzelkaraagac&theme=dark&background=000000"/>
-  <img height="150" width="150" src="WEBP/right.webp">
-</p>
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SDET-Mustafa&theme=dark&background=000000)](https://git.io/streak-stats) 
 
 
