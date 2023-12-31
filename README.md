@@ -18,14 +18,19 @@
 <!-- yorum satiri
 <h2 dir="auto"><a id="user-content-necktie-about-me" class="anchor" aria-hidden="true" href="#necktie-about-me"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z">
 
-### </path></svg></a> About Me ✅ </h2>
--->
-
-
 <!-- %7C -> alttaki yaziya | eklememize yariyor -->
-<![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%CC00FF&lines=Welcome+SDET+Mustafa+Channel;)/>
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%CC00FF&lines=Welcome+SDET+Mustafa+Channel;)
+
+</path></svg></a> About Me ✅ </h2>
+
+### Hi there 👋
+My name is Mustafa DOGAN
+#### I am a Software Test Automation Engineer 
+Software Quality Assurance Engineer with more than 3 years of experience in writing and executing both manual and automation test cases. Skilled in implementing end-to-end testing for 3 layers of applications including UI, API, and database. Hands-on experience in functional and automation testing using Java, Selenium Web Driver, and TestNG. Contributed to creating and maintaining software test automation frameworks. Proficient in Cucumber BDD framework, JUnit, Postman, and Rest Assured Library. Strong understanding of the Software Development Lifecyle (SDLC), Software Testing Lifecyle (STLC), and Defect Life Cycle (DLC). Experience with working in an Agile environment. Involved and contributed to all scrum ceremonies. Detail-oriented, lifelong learner. Trying to enhance his understanding of Quality Assurance.
+
+- 🌱 I’m currently learning JavaScript 
   
-<h3 align="left">Skills: Java | Selenium | JUnit | TestNG | Cucumber | Git - GitHub | Html | Jira | PostgreSQL | LAMBDA | JMeter | JDBC | Sql Developer | Jenkins |  API | Postman | </h3>
+<h3 align="left">Skills: Java | Selenium | JUnit | TestNG | Cucumber | Git - GitHub | Html | Jira | PostgreSQL | JMeter | JDBC | SQL Developer | Jenkins |  API | Postman | </h3>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /> 
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Languages and Tools:</b>
@@ -91,20 +96,9 @@ jobs:
 -->
 
 
-![](https://raw.githubusercontent.com/zouariste/corona-runner/gh-pages/assets/corona-runner.gif)
 
 
 
  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920"/>
- 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>My Stats</b>
-
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SDET-Mustafa&theme=dark&background=000000)](https://git.io/streak-stats) 
-
-
-
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/SDET-Mustafa)
-
 
 
